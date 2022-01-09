@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_Testing/.idea/Python_Testing.iml" filepath="$PROJECT_DIR$/../Python_Testing/.idea/Python_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobertFramework/.idea/RobertFramework.iml" filepath="$PROJECT_DIR$/../RobertFramework/.idea/RobertFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Selenium.iml" filepath="$PROJECT_DIR$/.idea/Selenium.iml" />
+    </modules>
+  </component>
+</project>
