@@ -10,10 +10,12 @@ Library         SeleniumLibrary
 ${User_name}     user@phptravels.com
 ${Invalid_Password}        user
 ${Valid_Password}        demouser
-${Site_Url}     https://www.phptravels.net/login
+${Username}     rahulshettyacademy
+${Password}     learning
+${Site_Url}    https://rahulshettyacademy.com/loginpagePractise/     #https://www.phptravels.net/login
 
 *** Keywords ***
-open the browser with phptravels url
+open the browser with url
     Create Webdriver    Chrome
     maximize browser window
     Go To   ${Site_Url}
